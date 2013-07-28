@@ -1,0 +1,101 @@
+MARIS_001
+Hey there, welcome to my little shop.  I have a ton of things for sale.  I'm also willing to buy any extra gear you might be tired of carrying.
+MARIS_002
+I absolutely guarantee that I have the best prices you will find.
+MARIS_003
+I don't care what that other shopkeeper says about my stuff.  I know it's the best.
+MARIS_004
+Would you like to see what I have for sale or would you like to sell me something?
+MARIS_005
+Here you go.
+MARIS_006
+I'm afraid that's my best offer.
+MARIS_007
+How does %s gold coins sound?
+MARIS_008
+To be honest, I don't know where I got that thing from.
+MARIS_009
+This piece of junk? I wouldn't pay a single coin for that!
+MARIS_010
+I'm afraid I don't have anything left in my story for sale.
+MARIS_011
+I've got to close shop now.  Please come back tomorrow.
+MARIS_012
+Thanks! I'll take it.
+MARIS_013
+I have more than one of those available.  How many do you want?
+MARIS_014
+Thank you so much for your business.  Please come back soon.
+MARIS_015
+I've had this shop for close to 15 years.  I just love this little town.
+MARIS_016
+I'm afraid I just stick to myself.  I'm not much of a gossip.
+MARIS_017
+I don't have any work to offer.  But you might check with the miller up the road.
+MILLER_001
+What do you want?
+MILLER_002
+I'm busy so get to your point.
+MILLER_003
+Yeah, I have some work for you.  Here's what I've got.
+MILLER_004
+Take these bags of flour to the store.
+MILLER_005
+Repair the waterwheel on my mill.
+MILLER_006
+Thresh this wheat for a while.
+MILLER_007
+Collect on a debt from that stingy farmer in the valley.
+MILLER_008
+I could tell from your look that you weren't really up for work.
+MILLER_009
+I'll decide how much to pay when I see how much you do.
+MILLER_010
+I've been around these parts for all my life.
+MILLER_011
+I don't know nothing about trouble.  I just mind to my own business.
+MILLER_012
+Is that the best you can do?  My brother's sick goat works faster than that.
+MILLER_013
+I'm not sure that I'm going to pay you anything for work like that.
+MILLER_014
+I can't even tell if you started working or not.
+MILLER_015
+Here, I'll pay you %s gold for that bit that you did.
+MILLER_016
+Well, if you can't find anything else to do I can put you to work again.
+MISC_001
+I don't understand you
+MISC_002
+What?
+MISC_003
+What language is that?
+MISC_004
+No idea what you just said.
+MISC_005
+I'm only ignoring you cause I don't know what you said.
+MISC_006
+What is that?
+MISC_007
+Where are you going?
+MISC_008
+What is your name?
+MISC_009
+I don't have one.
+MISC_010
+Ouch! Don't do that again!
+GENIE_001
+Hello! I'm a magic genie!  I can grant you three wishes!
+GENIE_002
+What is your first wish?
+GENIE_003
+What is your second wish?
+GENIE_004
+What is your third and final wish?
+GENIE_005
+No, I can't do that.
+GENIE_006
+That is beyond my abilities.
+GENIE_007
+You wish has been granted.
+
