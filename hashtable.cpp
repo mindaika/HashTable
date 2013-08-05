@@ -94,10 +94,14 @@ DialogElement* HashTable::get(char* element)
 
 int HashTable::Hasher(char* element)
 {
-	int h = 0;
+	unsigned int h = 0;
     int len = strlen( element );
     for (int i = 0; i < len; i++) {
-		h = ( 31 * h + element[i] ) % TABLE_SIZE;
+		h = ( 32 * h + element[i] ) ;
     }
-    return h;
+
+	// This should be a proper exception, but it's not. I should also be Danish, but I'm also not.
+	if ( ( h % TABLE_SIZE) < 0 )
+		std::cout << "The hash has overflowed" << std::endl;
+	return ( h % TABLE_SIZE );
 }
