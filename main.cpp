@@ -59,7 +59,7 @@ void testHashTable(char* filename)
 				ht.put(DialogElement(tmpId,tmpDialogElement));
 				if (count == 0)
 				{
-					strcpy(testId1,tmpId);
+					strcpy_s(testId1, tmpId); // strcpy is (allegedly) deprecated and VS12 won't build with it
 				}
 				count++;
 				if (strcmp(tmpId,badId1)==0)
@@ -117,5 +117,6 @@ int main(int argc,char** argv) {
 	}
 #endif
 
+	system("pause");
 	return 0;
 }
